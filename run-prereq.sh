@@ -84,7 +84,7 @@ sudo -H pip install 'scipy==1.0'
 sudo -H pip install 'oauth2client>=4.0.0'
 sudo -H pip install 'crcmod>=1.7'
 sudo -H pip install six
-sudo -H pip install 'joblib=0.13.2'
+sudo -H pip install 'joblib==0.13.2'
 sudo -H pip install 'scikit-learn==0.20.3'
 sudo -H pip install pandas
 sudo -H pip install psutil
